@@ -58,7 +58,7 @@ break;
 
 default;
 
-printf ("opção, invalida. Qual a figura?");
+printf ("opÃ§Ã£o, invalida. Qual a figura?");
 
 scanf("%c", &op");
 
